@@ -1,4 +1,4 @@
-### Student: Eunsoo
+# GCU Student
 ### Have a nice day!
 
 <!--
